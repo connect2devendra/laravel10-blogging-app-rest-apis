@@ -98,9 +98,9 @@ $ php artisan make:migration add_status_to_article_table --table=articles
 
 ## Screenshot for Demo
 
-![Route List & Folder Structures]("List of routes and basic folder structures")
+![Route List & Folder Structures](https://github.com/connect2devendra/laravel10-blogging-app-rest-apis/blob/master/public/screenshots/route-list-and-folder-structures.jpg "List of routes and basic folder structures")
 
-![Swagger APIS]("List of few apis added for sample")
+![Swagger APIS](https://github.com/connect2devendra/laravel10-blogging-app-rest-apis/blob/master/public/screenshots/swagge-apis.jpeg "List of few apis added for sample")
 
-![PHP UNIT TEST]("Added few unit test cases for sample (Test Driven Development - TDD)")
+![PHP UNIT TEST](https://github.com/connect2devendra/laravel10-blogging-app-rest-apis/blob/master/public/screenshots/php-unit-test.jpg "Added few unit test cases for sample (Test Driven Development - TDD)")
 
